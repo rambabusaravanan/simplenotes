@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Simple Notes</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+
+    <string name="txt_save">Save</string>
+    <string name="txt_refresh">Refresh</string>
+    <string name="txt_logout">Log Out</string>
+    <string name="txt_notes_edit">Edit Note</string>
+    <string name="txt_notes_new">Create Note</string>
+    <string name="txt_title">Title</string>
+    <string name="txt_message">Message</string>
+</resources>

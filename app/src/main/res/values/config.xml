@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backendless.appVersion">v1</string>
+    <string name="backendless.appId">XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX</string>
+    <string name="backendless.androidKey">XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXX</string>
+</resources>

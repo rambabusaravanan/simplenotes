@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_power_settings_new"
+        android:title="@string/txt_logout"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/refresh"
+        android:icon="@drawable/ic_sync"
+        android:title="@string/txt_refresh"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/create"
+        android:icon="@drawable/ic_add"
+        android:title="@string/txt_notes_new"
+        app:showAsAction="ifRoom" />
+</menu>
